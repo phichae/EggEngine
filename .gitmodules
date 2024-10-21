@@ -1,3 +1,0 @@
-[submodule "Egg/vendor/spdlog"]
-	path = Egg/vendor/spdlog
-	url = https://github.com/gabime/spdlog
